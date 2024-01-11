@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Devin 👋
 
-<!--
-**devinstreeter/devinstreeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I'm a proud Marine Corps veteran, holding a finance degree from the University of Alabama and a specialized certification in Data Science from Southern Methodist University. With a passion for data-driven solutions in finance.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Databases**: PostgreSQL, MongoDB, DBeaver
+- **Data Analysis Tools**: Excel, Tableau, Power BI
+- **Machine Learning**: TensorFlow, Keras, scikit-learn
+- **Cloud Technologies**: AWS
+- **Development Tools**: Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
