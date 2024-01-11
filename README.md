@@ -10,5 +10,5 @@ I have  a passion for data-driven solutions in finance.
 - **Data Analysis Tools**: Excel, Tableau, Power BI
 - **Machine Learning**: TensorFlow, Keras, scikit-learn
 - **Cloud Technologies**: AWS
-- **Development Tools**: Visual Studio Code
+- **Development Tools**: VS Code, Jupyter Notebook
 
