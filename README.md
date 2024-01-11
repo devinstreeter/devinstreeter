@@ -1,4 +1,4 @@
-# Hello, I'm Devin 👋
+# Hello, I'm Devin
 
 ## 🌟 About Me
 I'm a proud Marine Corps veteran, holding a finance degree from the University of Alabama and a specialized certification in Data Science from Southern Methodist University. 
