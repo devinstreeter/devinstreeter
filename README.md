@@ -8,6 +8,5 @@ I have  a passion for data-driven solutions.
 - **Programming Languages**: Python, JavaScript, HTML, CSS
 - **Databases**: PostgreSQL, MongoDB, DBeaver
 - **Data Analysis Tools**: Excel, Tableau, Power BI
-- **Machine Learning**: TensorFlow, Keras, scikit-learn
 - **Cloud Technologies**: AWS
 
