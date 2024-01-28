@@ -5,7 +5,7 @@ I'm a proud Marine Corps veteran, holding a finance degree from the University o
 I have  a passion for data-driven solutions.
 
 ##  Skills
-- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Programming Languages**: Python, JavaScript, HTML
 - **Databases**: PostgreSQL, MongoDB, DBeaver
 - **Data Analysis Tools**: Excel, Tableau, Power BI
 - **Cloud Technologies**: AWS
